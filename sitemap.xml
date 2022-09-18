@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/</loc>
     </url>
     <url>
-        <loc>https://example.com/netreverse1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/netreverse1/</loc>
         <lastmod>2022-09-19</lastmod>
     </url>
     <url>
-        <loc>https://example.com/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/0xb335/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/0xb335/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/0xb335/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/0xb335/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/engineering/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/engineering/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/engineering/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/engineering/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/introduction/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/introduction/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/introduction/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/introduction/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/protocols/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/protocols/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/protocols/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/protocols/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/reverse/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/reverse/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/reverse/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/reverse/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/welcome/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/welcome/</loc>
     </url>
     <url>
-        <loc>https://example.com/tags/welcome/page/1/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/tags/welcome/page/1/</loc>
     </url>
     <url>
-        <loc>https://example.com/welcome/</loc>
+        <loc>https://0xb335-blog-repo.vercel.app/welcome/</loc>
         <lastmod>2022-09-18</lastmod>
     </url>
 </urlset>
